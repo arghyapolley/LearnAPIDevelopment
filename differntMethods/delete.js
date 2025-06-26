@@ -12,8 +12,8 @@ app.use(express.json());
 
 // In-memory data storage: a simple array of user objects for demonstration purposes
 let users = [
-    { id: 1, name: 'John Doe', email: 'john@example.com' },
-    { id: 2, name: 'Jane Smith', email: 'jane@example.com' }
+    { id: 1, name: 'Arghya', email: 'arghya@example.com' },
+    { id: 2, name: 'Polley', email: 'polley@example.com' }
 ];
 
 // DELETE endpoint to remove a user by their ID
